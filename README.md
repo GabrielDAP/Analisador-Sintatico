@@ -1,6 +1,6 @@
 # AnalisadorSintatico
 
-Analisador Sintático criado pelos alunos Daniel Marques, Diego Albuquerque, Gabriel Carlos, Pedro Guimarães e.....,  baseado em exemplos vistos em sala de aula e pesquisado pelos membros integrantes do grupo.
+Analisador Sintático criado pelos alunos Daniel Marques, Diego Albuquerque, Gabriel Carlos, Pedro Guimarães e Jefferson Lima,  baseado em exemplos vistos em sala de aula e pesquisado pelos membros integrantes do grupo.
 
 Exemplo de um pequeno compilador feito em Java para analisar expressões aritméticas.
 Feito de forma manual para apresentar os conceitos de autômatos e parsers visto na disciplina de Compiladores
